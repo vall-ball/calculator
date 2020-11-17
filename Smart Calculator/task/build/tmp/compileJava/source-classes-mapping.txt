@@ -1,0 +1,10 @@
+calculator/ErrorHandler.java
+ calculator.ErrorHandler
+calculator/StringParser.java
+ calculator.StringParser
+calculator/Variables.java
+ calculator.Variables
+calculator/Main.java
+ calculator.Main
+calculator/StringCalculator.java
+ calculator.StringCalculator
